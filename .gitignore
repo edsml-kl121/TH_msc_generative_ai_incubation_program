@@ -1,0 +1,15 @@
+**.pkl
+*.DS_Store
+**.DS_Store
+**/.DS_Store
+app/frontend/test.py
+**/__pycache__/
+__pycache__/
+.DS_Store
+**.ipynb_checkpoints
+**/.ipynb_checkpoints
+gen-ai-venv/
+**.env
+**cert.pem
+**.txt
+**.Trash-0

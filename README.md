@@ -2,6 +2,6 @@
 
 Github for IBM Watsonx Incubation Program.
 
-During the incubation program (20-21 February 2024) please navigate to the **TH** folder.
+During the incubation program for metro systems please navigate to the **TH** folder.
 
 ![Alt text](IMAGES/image.png)

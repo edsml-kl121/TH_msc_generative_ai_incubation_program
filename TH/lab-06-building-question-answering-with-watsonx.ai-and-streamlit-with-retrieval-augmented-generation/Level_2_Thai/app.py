@@ -16,7 +16,8 @@ from function import (connect_to_milvus, connect_watsonx_llm, initiate_username,
 
 #---------- settings ----------- #
 
-model_id_llm='meta-llama/llama-3-8b-instruct'
+# model_id_llm='meta-llama/llama-3-8b-instruct'
+model_id_llm='meta-llama/llama-3-1-8b-instruct'
 model_id_emb="kornwtp/simcse-model-phayathaibert"
 
 # Most GENAI logs are at Debug level.
